@@ -1,0 +1,12 @@
+C:\Users\Administrator.KHALTA\Documents\Retail SDK CU9\POS Plug-ins\POS\bin\Debug\Printing.dll
+C:\Users\Administrator.KHALTA\Documents\Retail SDK CU9\POS Plug-ins\POS\bin\Debug\Printing.pdb
+C:\Users\Administrator.KHALTA\Documents\Retail SDK CU9\POS Plug-ins\Services\Printing\obj\Debug\Microsoft.Dynamics.Retail.Pos.Printing.frmReportList.resources
+C:\Users\Administrator.KHALTA\Documents\Retail SDK CU9\POS Plug-ins\Services\Printing\obj\Debug\Printing.csproj.GenerateResource.Cache
+C:\Users\Administrator.KHALTA\Documents\Retail SDK CU9\POS Plug-ins\Services\Printing\obj\Debug\Printing.dll
+C:\Users\Administrator.KHALTA\Documents\Retail SDK CU9\POS Plug-ins\Services\Printing\obj\Debug\Printing.pdb
+C:\Users\admin\Documents\Khalta SDK\Retail SDK CU9\POS Plug-ins\POS\bin\Debug\Printing.dll
+C:\Users\admin\Documents\Khalta SDK\Retail SDK CU9\POS Plug-ins\POS\bin\Debug\Printing.pdb
+C:\Users\admin\Documents\Khalta SDK\Retail SDK CU9\POS Plug-ins\Services\Printing\obj\Debug\Microsoft.Dynamics.Retail.Pos.Printing.frmReportList.resources
+C:\Users\admin\Documents\Khalta SDK\Retail SDK CU9\POS Plug-ins\Services\Printing\obj\Debug\Printing.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Khalta SDK\Retail SDK CU9\POS Plug-ins\Services\Printing\obj\Debug\Printing.dll
+C:\Users\admin\Documents\Khalta SDK\Retail SDK CU9\POS Plug-ins\Services\Printing\obj\Debug\Printing.pdb
